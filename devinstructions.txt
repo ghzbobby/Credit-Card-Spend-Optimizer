@@ -1,0 +1,4 @@
+Install Python
+Install PostgreSQL
+Install Git
+Install Python extension for VS Code
